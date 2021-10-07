@@ -4,9 +4,11 @@ Software Engineer based in Gujar Khan, Pakistan
 👩🏼‍🎓 **Education**
 
 **Bachelor of Software Engineering**
+
 Fatima Jinnah Women University - Rawalpindi, Pakistan (2017 - 2021)
 
 **Intermediate (FSc Pre-Engineering)**
+
 Punjab College - Gujar Khan, Pakistan 
 
 
