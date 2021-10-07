@@ -1,3 +1,15 @@
+## Nimra Akram 
+Software Engineer based in Gujar Khan, Pakistan
+
+👩🏼‍🎓 **Education**
+
+**Bachelor of Software Engineering**
+Fatima Jinnah Women University - Rawalpindi, Pakistan (2017 - 2021)
+
+**Intermediate (FSc Pre-Engineering)**
+Punjab College - Gujar Khan, Pakistan 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/animra/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -6,7 +18,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+'''Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
