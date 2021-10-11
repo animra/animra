@@ -10,15 +10,15 @@ Bachelor of Software Engineering
 
 # 👩🏼‍💻 **Skills**
 
-**Programming Skills**	
+- **Programming Skills**	
 
 Command on C++, C#, jQuery, and Python
 
-**Deep Learning Frameworks**
+- **Deep Learning Frameworks**
 
 Tensorflow, Keras, Theano, Pytorch, Caffe, OpenCV, more
 
-**Tools Used**
+- **Tools Used**
 
 Turbo C++, Visual Studio, Packet Tracer, Eclipse, InelliJ IDEA, RapidMiner, Power BI, Tableau, Jupyter Notebook, Spyder, more
 
