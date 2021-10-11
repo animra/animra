@@ -14,7 +14,7 @@ Fatima Jinnah Women University - Rawalpindi, Pakistan (2017 - 2021)
 
 Punjab College, Pakistan
 
-👩🏼‍💻 #**Work Experience**
+# 👩🏼‍💻 **Work Experience**
 
 **Intern at Ufone, Pakistan** (June 2021 – July 2021)
 
@@ -32,7 +32,7 @@ Punjab College, Pakistan
 
 ▪	Wrote research paper “Vehicle Damage Classification and Fraudulent Image Detection Including Moiré Effect Using Deep Learning”
 
-🏆 **Accomplishments**
+# 🏆 **Accomplishments**
 
 ▪	Published research paper “Vehicle Damage Classification and Fraudulent Image Detection Including Moiré Effect Using Deep Learning” in the 33rd IEEE Canadian Conference on Electrical and Computer Engineering
 
@@ -42,7 +42,7 @@ Punjab College, Pakistan
 
 ▪	Best Volunteer & Ambassador award from Jamila Sultana Foundation
 
-💬 **Languages**
+# 💬 **Languages**
 
 ▪	English - Fluent
 
