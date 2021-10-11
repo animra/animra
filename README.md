@@ -6,7 +6,22 @@ I'm a software engineer who is passionate about making contributions to open-sou
 
 # 👩🏼‍🎓 Education
 
-**Bachelor of Software Engineering**
+Bachelor of Software Engineering
+
+# 👩🏼‍💻 **Skills**
+
+**Programming Skills**	
+
+Command on C++, C#, jQuery, and Python
+
+**Deep Learning Frameworks**
+
+Tensorflow, Keras, Theano, Pytorch, Caffe, OpenCV, more
+
+**Tools Used**
+
+Turbo C++, Visual Studio, Packet Tracer, Eclipse, InelliJ IDEA, RapidMiner, Power BI, Tableau, Jupyter Notebook, Spyder, more
+
 
 
 
