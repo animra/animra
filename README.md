@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about making contributions to open-source more approachable, creating technology to elevate people, and building community. My primary field of research interest is Artificial Intelligence (AI). Within AI, I am interested in problems related to probabilistic modeling, machine learning, and computer vision. 
 
-# 👩🏼‍🎓Education
+# 👩🏼‍🎓 Education
 
 **Bachelor of Software Engineering**
 
