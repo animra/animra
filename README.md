@@ -20,7 +20,7 @@ Bachelor of Software Engineering
 
 - **Tools Used**
 
-  Turbo C++, Visual Studio, Packet Tracer, Eclipse, InelliJ IDEA, RapidMiner, Power BI, Tableau, Jupyter Notebook, Spyder, more
+  Turbo C++, Visual Studio, Packet Tracer, Eclipse, IntelliJ IDEA, RapidMiner, Power BI, Tableau, Jupyter Notebook, Spyder, more
 
 
 
