@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about making contributions to open-sou
 
 # 👩🏼‍🎓 Education
 
-Bachelor of Software Engineering
+Bachelors in Software Engineering
 
 # 👩🏼‍💻 **Skills**
 
