@@ -7,6 +7,7 @@ I'm a software engineer and currently studying Computer Science. I am passionate
 # 👩🏼‍🎓 Education
 
 Master's of Computer Science
+
 Bachelors in Software Engineering
 
 # 👩🏼‍💻 **Skills**
