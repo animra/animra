@@ -8,7 +8,7 @@ I'm a software engineer and currently studying Computer Science. I am passionate
 
 Master's of Computer Science
 
-Bachelors in Software Engineering
+Bachelor in Software Engineering
 
 # 👩🏼‍💻 **Skills**
 
@@ -18,7 +18,7 @@ Bachelors in Software Engineering
 
 - **Deep Learning Frameworks**
 
-  Tensorflow, Keras, Theano, Pytorch, Caffe, OpenCV, more
+  TensorFlow, Keras, Theano, PyTorch, Caffe, OpenCV, and more
 
 - **Tools Used**
 
