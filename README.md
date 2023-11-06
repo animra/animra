@@ -4,8 +4,6 @@
 
 My research interests span a wide spectrum of cutting-edge tech domains, including software engineering, artificial intelligence, deep learning, machine learning, computer vision, data science, data and business analysis, databases, web development, and the ever-evolving field of Natural Language Processing (NLP).
 
-I believe that NLP plays a pivotal role in bridging the gap between technology and human communication. It offers exciting opportunities to transform the way we interact with computers, and I'm enthusiastic about exploring its potential in my academic and professional pursuits.
-
 My goal is to create innovative solutions at the intersection of these diverse fields, all while nurturing an inclusive and collaborative tech community.
 
 # 👩🏼‍🎓 Education
