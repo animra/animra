@@ -16,74 +16,41 @@ Bachelor in Software Engineering
 
 # 👩🏼‍💻 **Skills**
 
-Programming Skills
+**Programming Languages:**
 
 Proficient in C++, C#, jQuery, and Python. Specialization in building NLP applications using Python.
 
-Natural Language Processing (NLP)
-
-Extensive expertise in NLP, including text classification, sentiment analysis, language modeling, and chatbot development. Experienced in libraries like NLTK, spaCy, and Gensim.
-
-Artificial Intelligence (AI)
-
-Knowledgeable in AI concepts, including machine learning, deep learning, neural networks, and computer vision. Skilled in using AI for various applications.
-
-Machine Learning (ML)
-
-Experienced in ML model development, training, and deployment. Proficient in popular ML frameworks and tools for predictive analytics and data mining.
-
-Data and Business Analysis
-
-Skilled in data analysis, data visualization, and business intelligence using tools like Power BI and Tableau. Proficient in analyzing and interpreting data for informed business decision-making.
-
-Deep Learning Frameworks
+**Deep Learning Frameworks:**
 
 Skilled in TensorFlow, Keras, Theano, PyTorch, Caffe, and OpenCV, with a focus on NLP-related deep learning tasks.
 
-Software Development
-
-A seasoned software developer with experience in full-stack web development, database design, and application architecture. Proficient in using tools like Turbo C++, Visual Studio, Jupyter Notebook, and more.
-
-Tools Used
-
-Familiar with a wide range of development and data analysis tools, including Packet Tracer, Eclipse, IntelliJ IDEA, RapidMiner, Spyder, and more, to streamline and enhance the software development and NLP workflow.
-
-
-👩🏼‍💻 Skills
-
-Proficient in C++, C#, jQuery, and Python. Specialization in building NLP applications using Python.
-
-Artificial Intelligence (AI)
+**Artificial Intelligence (AI):**
 
 Knowledgeable in AI concepts, including machine learning, deep learning, neural networks, and computer vision. Skilled in using AI for various applications.
 
-Machine Learning (ML)
+**Machine Learning (ML)**
 
 Experienced in ML model development, training, and deployment. Proficient in popular ML frameworks and tools for predictive analytics and data mining.
 
-Data and Business Analysis
+**Data and Business Analysis:**
 
 Skilled in data analysis, data visualization, and business intelligence using tools like Power BI and Tableau. Proficient in analyzing and interpreting data for informed business decision-making.
 
-Natural Language Processing (NLP)
+**Natural Language Processing (NLP):**
 
 Extensive expertise in NLP, including text classification, sentiment analysis, language modeling, and chatbot development. Experienced in libraries like NLTK, spaCy, and Gensim.
 
-Database Management and Administration (DBA)
+**Database Management and Administration (DBA):**
 
 Proficient in Oracle database management, including installation, configuration, and administration. Skilled in data modeling, backup and recovery, and performance optimization.
 
-Deep Learning Frameworks
-
-Skilled in TensorFlow, Keras, Theano, PyTorch, Caffe, and OpenCV, with a focus on NLP-related deep learning tasks.
-
-Software Development
+**Software Development:**
 
 A seasoned software developer with experience in full-stack web development, database design, and application architecture. Proficient in using tools like Turbo C++, Visual Studio, Jupyter Notebook, and more.
 
-Tools Used
+**Tools Used:**
 
-Familiar with a wide range of development and data analysis tools, including Packet Tracer, Eclipse, IntelliJ IDEA, RapidMiner, Spyder, and more, to streamline and enhance the software development, NLP, and database management workflow.
+Familiar with a wide range of development and data analysis tools, including Packet Tracer, Eclipse, IntelliJ IDEA, RapidMiner, Spyder, and more, to streamline and enhance software development, NLP, and database management workflow.
 
 
 
