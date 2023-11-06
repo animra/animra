@@ -18,7 +18,7 @@ Bachelor in Software Engineering
 
 **Programming Languages:**
 
-Proficient in C++, C#, jQuery, and Python. Specialization in building NLP applications using Python.
+Proficient in C++, C#, jQuery, and Python.
 
 **Deep Learning Frameworks:**
 
