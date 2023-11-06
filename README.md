@@ -49,13 +49,6 @@ Tools Used
 Familiar with a wide range of development and data analysis tools, including Packet Tracer, Eclipse, IntelliJ IDEA, RapidMiner, Spyder, and more, to streamline and enhance the software development and NLP workflow.
 
 
-
-
-User
-ADD ORACLE AND DBA SKILLS AS WELL
-ChatGPT
-Certainly, here's an updated skills section that includes Oracle and DBA skills:
-
 👩🏼‍💻 Skills
 
 Proficient in C++, C#, jQuery, and Python. Specialization in building NLP applications using Python.
