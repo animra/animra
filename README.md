@@ -6,13 +6,15 @@ My research interests span a wide spectrum of cutting-edge tech domains, includi
 
 My goal is to create innovative solutions at the intersection of these diverse fields, all while nurturing an inclusive and collaborative tech community.
 
+# 👩🏼‍💻 **Data Scientist at UBC**
+
 # 👩🏼‍🎓 Education
 
 Master's of Computer Science - Western University
 
 Bachelor in Software Engineering
 
-# 👩🏼‍💻 **Skills**
+# **Skills**
 
 **Programming Languages:**
 
