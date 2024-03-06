@@ -6,7 +6,7 @@ My research interests span a wide spectrum of cutting-edge tech domains, includi
 
 My goal is to create innovative solutions at the intersection of these diverse fields, all while nurturing an inclusive and collaborative tech community.
 
-# 👩🏼‍💻 **Data Scientist RA at UBC**
+# 👩🏼‍💻 **Data Scientist RA at University of British Columbia**
 
 # 👩🏼‍🎓 Education
 
