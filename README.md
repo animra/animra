@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/66442603/136705673-150482f3-910e-442e-80b3-7206a61b908d.png)
 
-My research interests span a wide spectrum of cutting-edge tech domains, including software engineering, artificial intelligence, deep learning, machine learning, computer vision, data science, data and business analysis, databases, web development, and the ever-evolving field of Natural Language Processing (NLP).
+My research interests span a wide spectrum of cutting-edge tech domains, including software and data engineering, artificial intelligence, deep learning, machine learning, computer vision, data science, data and business analysis, databases, web development, and the ever-evolving field of Natural Language Processing (NLP).
 
 My goal is to create innovative solutions at the intersection of these diverse fields, all while nurturing an inclusive and collaborative tech community.
 
