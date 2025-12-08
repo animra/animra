@@ -5,6 +5,7 @@
 My research interests span a wide spectrum of cutting-edge tech domains, including software and data engineering, artificial intelligence, deep learning, machine learning, computer vision, data science, data and business analysis, databases, web development, and the ever-evolving field of Natural Language Processing (NLP).
 
 My goal is to create innovative solutions at the intersection of these diverse fields, all while nurturing an inclusive and collaborative tech community.
+# 👩🏼‍💻 **BI Architect and Data Consultant at NBRHC**
 # 👩🏼‍💻 **Research Associate II at University of Ottawa**
 # 👩🏼‍💻 **Data Scientist (RA) at University of British Columbia**
 
